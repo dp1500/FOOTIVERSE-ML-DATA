@@ -1,0 +1,7 @@
+another column for home and away side can be mindset
+i.e was the team defensive, balanced or attacking.
+
+this can be implemented by looking at teams of each season adn implying what mindset they might have used and their opponents. also mindset will change based on opponent
+like west ham may play attacking against norwich but may play defensive against mancity
+
+also encoding should be done with order def = 0 , balanced = 1, attack = 2
